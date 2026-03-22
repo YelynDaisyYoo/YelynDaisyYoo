@@ -1,9 +1,13 @@
+<div align="left">
+  <h2>Hi there 👋 I'm Yelyn Daisy Yoo</h2>
+</div>
+
+<hr />
+
 <div align="center">
-  <h1>Hi there 👋 I'm Yelyn Daisy Yoo</h1>
-  
-  <h2>📊 Future Sports Data Scientist</h2>
+  <h2>🏆 Future Sports Data Scientist</h2>
   <p>Currently studying at a university in South Korea with a passion for <b>Sports Data Science</b>. 
-  I'm deeply interested in developing various services that bridge the gap between <b>Data</b> and <b>Sports</b>.</p>
+  I'm deeply interested in developing various services that bridge the gap between <b>Data📊</b> and <b>Sports⚽</b>.</p>
 
   <img src="https://img.shields.io/badge/STUDENT-3178C6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/DATA_SCIENTIST-FF6F61?style=for-the-badge&logoColor=white" />
@@ -15,13 +19,13 @@
   <a href="mailto:daisyrax0717@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <p>Feel free to reach out for collaborations or just a friendly chat about Sports & Data!</p>
 
   <hr />
 
   <h2>🎓 Tools of Trade</h2>
   
-  <h3>AI & Data Science</h3>
+  <br>
+  <img src="https://img.shields.io/badge/AI_%26_DATA_SCIENCE-3670A0?style=flat-square&logo=visualstudiocode&logoColor=white" alt="AI 제목" />
   <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
@@ -30,7 +34,8 @@
     <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" />
   </p>
 
-  <h3>Frontend & Service Dev</h3>
+  <br>
+  <img src="https://img.shields.io/badge/FRONTEND_%26_SERVICE_DEV-4CAF50?style=flat-square&logo=pwa&logoColor=white" alt="프론트엔드 제목" />
   <p>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -38,12 +43,7 @@
     <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
   </p>
 
-  <h3>Infra & Others</h3>
-  <p>
-    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </p>
+  <br>
 
   <hr />
 
