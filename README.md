@@ -1,5 +1,3 @@
-# ⚽ Yelyn Daisy Yoo / README.md
-
 <div align="center">
   <h1>Hi there 👋 I'm Yelyn Daisy Yoo</h1>
   
