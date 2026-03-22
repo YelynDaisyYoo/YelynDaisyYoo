@@ -49,6 +49,6 @@
 
   <h2>📈 My GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YelynDaisyYoo&show_icons=true&theme=radical" alt="GitHub Stats" />
   </p>
 </div>
