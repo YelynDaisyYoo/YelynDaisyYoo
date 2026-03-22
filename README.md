@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Yelyn%20Daisy%20Yoo&fontColor=ffffff&fontSize=70&fontAlign=65&fontAlignY=50&desc=Sports%20Data%20Analyst&descSize=30&descAlign=77&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Yelyn%20Yoo&fontColor=ffffff&fontSize=70&fontAlign=65&fontAlignY=50&desc=Sports%20Data%20Analyst&descSize=30&descAlign=77&descAlignY=70)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
